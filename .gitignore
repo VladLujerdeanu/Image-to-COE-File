@@ -1,0 +1,5 @@
+*.txt
+*.coe
+venv/
+*.jpg
+.idea/
